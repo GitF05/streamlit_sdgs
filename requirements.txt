@@ -3,4 +3,4 @@ pandas==2.2.2
 pip==24.2
 streamlit
 scikit-learn
-xhtml2pdf
+xhtml2pdf==0.2.16
